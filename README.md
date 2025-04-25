@@ -1,5 +1,21 @@
 ## Hi 👋! ✨ Eberechi Nwankwo✨
 
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/eberechi-nwankwo-9689221b2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@nwankwotessy26" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=medium&label=Medium&color=&logoColor=white&labelColor=12100E&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="x.com/EberechiMaureen" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=twitter&label=Twitter&color=&logoColor=white&labelColor=1DA1F2&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
 # Mission
 I strive to transform raw business data into actionable insights using Python, Excel, SQL, and Tableau. By leveraging analytical techniques, automation, and compelling visualizations, I empower data-driven decision-making that enhances efficiency, identifies opportunities, and solves key business challenges.🔭
 
