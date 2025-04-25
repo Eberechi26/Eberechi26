@@ -33,5 +33,6 @@ I am a passionate and data-driven analyst with a strong ability to extract meani
 
 # Connect With Me📫
   [Linkedin](https://www.linkedin.com/in/eberechi-nwankwo-9689221b2/)
-  [X]https://x.com/EberechiMaureen
+  [X](https://x.com/EberechiMaureen)
+  [Medium](https://medium.com/@nwankwotessy26)
 
