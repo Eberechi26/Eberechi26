@@ -17,7 +17,7 @@
 ###
 
 # Mission
-I strive to transform raw business data into actionable insights using Python, Excel, SQL, and Tableau. By leveraging analytical techniques, automation, and compelling visualizations, I empower data-driven decision-making that enhances efficiency, identifies opportunities, and solves key business challenges.🔭
+I strive to transform raw business data into actionable insights using Python, Excel, SQL, and Power Bi. By leveraging analytical techniques, automation, and compelling visualizations, I empower data-driven decision-making that enhances efficiency, identifies opportunities, and solves key business challenges.🔭
 
 # About Me
 I am a passionate and data-driven analyst with a strong ability to extract meaningful insights from complex datasets. I transform raw data into actionable business solutions. My analytical mindset, problem-solving skills, and research-driven approach help me uncover trends, optimize performance, and drive data-informed decision-making.😄
